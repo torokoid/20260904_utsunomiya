@@ -212,6 +212,9 @@ p.note { display: none; }
 <h2><span class="yellow">雑誌の表紙の「Hermes Desktop」が気になりました</span></h2>
 <a href="20260904_00028.jpeg" target="_blank"><img src="20260904_00028.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
+<h2><span class="yellow">gemini.google.comに「Hermes Desktop」について聞いたら、こんな答えでした</span></h2>
+<a href="20260904_001.png" target="_blank"><img src="20260904_001.png" alt="サンプル画像" class="responsive-media"></a>
+
 <h2><span class="yellow">いつものトイレのお花も可憐でした</span></h2>
 <a href="20260904_00029.jpeg" target="_blank"><img src="20260904_00029.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260904_00030.jpeg" target="_blank"><img src="20260904_00030.jpeg" alt="サンプル画像" class="responsive-media"></a>
